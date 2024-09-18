@@ -1,0 +1,7 @@
+C:\Users\lovito99\OneDrive\Escritorio\Progrmacion\Programacion 2\AppOrdenamientoYBusqueda\AppOrdenamientoYBusqueda\bin\Debug\AppOrdenamientoYBusqueda.exe.config
+C:\Users\lovito99\OneDrive\Escritorio\Progrmacion\Programacion 2\AppOrdenamientoYBusqueda\AppOrdenamientoYBusqueda\bin\Debug\AppOrdenamientoYBusqueda.exe
+C:\Users\lovito99\OneDrive\Escritorio\Progrmacion\Programacion 2\AppOrdenamientoYBusqueda\AppOrdenamientoYBusqueda\bin\Debug\AppOrdenamientoYBusqueda.pdb
+C:\Users\lovito99\OneDrive\Escritorio\Progrmacion\Programacion 2\AppOrdenamientoYBusqueda\AppOrdenamientoYBusqueda\obj\Debug\AppOrdenamientoYBusqueda.csproj.AssemblyReference.cache
+C:\Users\lovito99\OneDrive\Escritorio\Progrmacion\Programacion 2\AppOrdenamientoYBusqueda\AppOrdenamientoYBusqueda\obj\Debug\AppOrdenamientoYBusqueda.csproj.CoreCompileInputs.cache
+C:\Users\lovito99\OneDrive\Escritorio\Progrmacion\Programacion 2\AppOrdenamientoYBusqueda\AppOrdenamientoYBusqueda\obj\Debug\AppOrdenamientoYBusqueda.exe
+C:\Users\lovito99\OneDrive\Escritorio\Progrmacion\Programacion 2\AppOrdenamientoYBusqueda\AppOrdenamientoYBusqueda\obj\Debug\AppOrdenamientoYBusqueda.pdb
